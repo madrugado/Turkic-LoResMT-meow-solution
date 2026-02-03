@@ -1,4 +1,4 @@
-# English ↔ Chuvash — README (concise)
+# English ↔ Chuvash machine translation pipeline
 
 ## Files
 - english.txt — English sentences (one per line).
